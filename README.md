@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @minhajputhiyara
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python,artificial intelligence
-- 💞️ I’m looking to collaborate on python django projects,AI projects and react projects
+- 💞️ I’m looking to collaborate on python django projects and AI projects
 - 📫 How to reach me ... LInked in https://www.linkedin.com/in/minhajputhiyara
 
 <!---
