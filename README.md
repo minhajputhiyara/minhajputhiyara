@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Python**
 
-- 👨‍💻 All of my projects are available at [minhajputhiyara.me](minhajputhiyara.me)
+- 👨‍💻 All of my projects are available at [minhaj.website](minhaj.website)
 
 - 📫 How to reach me **minhajputhiyara@gmail.com**
 
